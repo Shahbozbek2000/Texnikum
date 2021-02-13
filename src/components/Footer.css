@@ -1,0 +1,23 @@
+.footer{
+    padding-top: 20px;
+    background-color: #034890;
+    color: #fff; }
+.footer .nav-list li{
+    line-height: 40px;
+    list-style: none; }
+.footer .nav-list-dashed{
+    font-size: 18px;
+    width: 120px;
+    border-bottom: 1px  dashed #fff; }
+.footer li{
+    font-size: 15px;
+}
+
+
+@media screen and (max-width: 576px){
+    .footer{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}

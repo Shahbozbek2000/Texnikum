@@ -1,0 +1,22 @@
+.students-wrapper{
+    width: 100%;
+    height: auto;
+    background-color: #034890;
+    padding: 60px;
+    margin-bottom: 30px; }
+.groups-number{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row; }
+.groups-number .groups-icon{
+    transition: all .5s;
+    color: #fff; }
+.groups-number .groups-icon:hover{
+    color: black; }
+.group-wrapper h2{
+    font-size: 40px;
+    margin-left: 20px;
+    color: #fff; }
+.groups-number-wrap span{
+    font-size: 20px;
+    color: #fff; }
