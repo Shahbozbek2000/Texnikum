@@ -83,7 +83,6 @@ export  function Students() {
                       <div className='group-wrapper'>
                       <h2>
                       <CountUp
-                      
                       end={45}
                       duration={10}
                       start={0}

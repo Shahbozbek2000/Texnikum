@@ -6,6 +6,7 @@ import {Slider} from './components/Slider'
 import { Footer } from './components/Footer';
 import { FirstPage } from './components/FirstPage';
 import AnimatedCursor from 'react-animated-cursor'
+import SecondPage from './components/SecondPage';
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
       <Slider/>
       <Switch>
        <Route path='/' exact  component={FirstPage} />
+       <Route path='/contact' component={SecondPage} />
       </Switch>
      <Footer/>
     </div>
