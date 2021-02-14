@@ -2,11 +2,11 @@ import React from 'react'
 import './App.css';
 import { Navbar } from './components/Navbar'
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom'
-import {Slider} from './components/Slider'
 import { Footer } from './components/Footer';
 import { FirstPage } from './components/FirstPage';
 import AnimatedCursor from 'react-animated-cursor'
 import SecondPage from './components/SecondPage';
+import { NewsScreen } from './components/NewsScreen';
 
 function App() {
   return (
@@ -22,10 +22,11 @@ function App() {
     <Router>
     <div className="App">
       <Navbar/>
-      <Slider/>
+      
       <Switch>
        <Route path='/' exact  component={FirstPage} />
        <Route path='/contact' component={SecondPage} />
+       <Route path='/post/:id' component={NewsScreen} />
       </Switch>
      <Footer/>
     </div>

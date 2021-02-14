@@ -17,7 +17,7 @@ export function Cards() {
             <div className="card">
               <div className="card-content">
                 <div className="card-icons">
-                  <i class="far fa-newspaper fa-3x"></i>
+                  <i className="far fa-newspaper fa-3x"></i>
                 </div>
               </div>
               <div className="card-title">
@@ -33,7 +33,7 @@ export function Cards() {
             <div className="card">
               <div className="card-content">
                 <div className="card-icons">
-                  <i class="fas fa-graduation-cap fa-3x"></i>
+                  <i className="fas fa-graduation-cap fa-3x"></i>
                 </div>
               </div>
               <div className="card-title">
@@ -47,7 +47,7 @@ export function Cards() {
           <div className="card">
               <div className="card-content">
                 <div className="card-icons">
-                  <i class="fas fa-place-of-worship fa-3x"></i>
+                  <i className="fas fa-place-of-worship fa-3x"></i>
                 </div>
               </div>
               <div className="card-title">
@@ -63,7 +63,7 @@ export function Cards() {
             <div className="card">
               <div className="card-content">
                 <div className="card-icons">
-                  <i class="fas fa-user-graduate fa-3x"></i>
+                  <i className="fas fa-user-graduate fa-3x"></i>
                 </div>
               </div>
               <div className="card-title">
@@ -78,7 +78,7 @@ export function Cards() {
             <div className="card">
               <div className="card-content">
                 <div className="card-icons">
-                  <i class="fas fa-user-graduate fa-3x"></i>
+                  <i className="fas fa-user-graduate fa-3x"></i>
                 </div>
               </div>
               <div className="card-title">
@@ -92,7 +92,7 @@ export function Cards() {
           <div className="card">
               <div className="card-content">
                 <div className="card-icons">
-                  <i class="fas fa-search fa-3x"></i>
+                  <i className="fas fa-search fa-3x"></i>
                 </div>
               </div>
               <div className="card-title">
@@ -107,7 +107,7 @@ export function Cards() {
             <div className="card">
               <div className="card-content">
                 <div className="card-icons">
-                  <i class="fas fa-medal fa-3x"></i>
+                  <i className="fas fa-medal fa-3x"></i>
                 </div>
               </div>
               <div className="card-title">
@@ -123,7 +123,7 @@ export function Cards() {
             <div className="card">
               <div className="card-content">
                 <div className="card-icons">
-                  <i class="far fa-newspaper fa-3x"></i>
+                  <i className="far fa-newspaper fa-3x"></i>
                 </div>
               </div>
               <div className="card-title">

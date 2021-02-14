@@ -1,0 +1,32 @@
+.card-header {
+  padding-left: 40px; }
+.card--body {
+  padding: 0;
+}
+.card--body li {
+  cursor: none;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+.card--body .nav-item {
+  line-height: 31px;
+}
+.card--body i {
+  margin-left: 10px;
+}
+.card--body li .nav-link {
+  cursor: none;
+  text-decoration: none !important;
+  color: black !important;
+}
+.card--body li:hover {
+  color: #fff !important;
+  background-color: #034890;
+}
+.card--body .nav-link:hover {
+  color: #fff !important;
+}
+.news-image-wrapper img {
+  width: 100%;
+}
